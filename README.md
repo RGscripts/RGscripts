@@ -1,9 +1,3 @@
-<!-- Header GIF (put your optimized gif at assets/header.gif) -->
-<p align="center">
-  <!-- Replace src with ./assets/header.gif after you upload the GIF to your repo -->
-  <img src="./assets/header.gif" alt="Rajat Giri - AI & Backend" width="900" style="max-width:100%;border-radius:12px;"/>
-</p>
-
 <!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7A2FF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Rajat+Giri;AI+%7C+Backend+Developer+%7C+DSA+Enthusiast" alt="Typing Animation"/>
