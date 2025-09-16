@@ -34,7 +34,7 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RGscripts&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RGscripts&theme=tokyonight&hide_border=true&show_icons=true" height="160px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RGscripts&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 <p align="center">
@@ -43,16 +43,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RGscripts&theme=discord&no-frame=true&margin-w=15&margin-h=15&row=1" />
-</p>
-
----
-
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
@@ -61,11 +54,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RGscripts&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
-
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=RGscripts&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
