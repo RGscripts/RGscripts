@@ -29,35 +29,40 @@
 
 ---
 
-# 💻 Tech Stack (icons)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,mongodb,mysql,react,nextjs,git,github,postman,tensorflow,pytorch&perline=7" alt="skills">
-</p>
+### 🛠️ My Tech Stack
 
----
+Here are the technologies I work with. My toolkit is always growing!
 
-# 🔧 Skill Levels
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-90%25-7A2FF7?style=for-the-badge" alt="ml"/>
-  <img src="https://img.shields.io/badge/Backend-85%25-16A34A?style=for-the-badge" alt="backend"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-80%25-F59E0B?style=for-the-badge" alt="genai"/>
-  <img src="https://img.shields.io/badge/DSA-75%25-06B6D4?style=for-the-badge" alt="dsa"/>
-  <img src="https://img.shields.io/badge/DevOps%20(Deployments)-60%25-DB2777?style=for-the-badge" alt="devops"/>
-</p>
-
----
-
-<details>
-<summary>📜 Certifications & Education (click to expand)</summary>
-
-**Education**  
-- Integrated M.Tech — Computational & Data Science, VIT Bhopal (2022–2027) — CGPA: 7.81
-
-**Certifications**  
-- Introduction to Machine Learning — NPTEL (Jul 2024)  
-- Applied Machine Learning in Python — Coursera (Dec 2023)
-
-</details>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="200">
+      <h4>Languages</h4>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&perline=5"></a>
+    </td>
+    <td align="center" width="200">
+      <h4>AI / ML</h4>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas&perline=6"></a>
+    </td>
+    <td align="center" width="200">
+      <h4>Backend</h4>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&perline=4"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <h4>Databases</h4>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&perline=4"></a>
+    </td>
+    <td align="center" width="200">
+      <h4>Frontend</h4>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3"></a>
+    </td>
+    <td align="center" width="200">
+      <h4>Tools & Platforms</h4>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&perline=6"></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -83,9 +88,10 @@
 <details>
 <summary>✉️ Contact & Collaboration</summary>
 
-**Email:** [rajatgiri192@gmail.com](mailto:rajatgiri192@gmail.com)  
-**Open to:** Mentorship, Open-source collabs, Hackathon teammates  
-**Availability:** Part-time (student) — prefer weekend collaborations
+📩 **Email:** [rajatgiri192@gmail.com](mailto:rajatgiri192@gmail.com)  
+🤝 **Open to:** Open-source contributions · Hackathon teams · Research projects · Backend & AI collaborations  
+🕒 **Availability:** Flexible alongside academics (best on weekends)  
+🚀 **Let’s Connect:** Whether it’s building AI tools, solving challenging DSA problems, or contributing to innovative projects — I’m always excited to collaborate!  
 
 </details>
 
