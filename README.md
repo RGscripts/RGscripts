@@ -95,6 +95,3 @@
   <img src="https://komarev.com/ghpvc/?username=RGscripts&label=Profile+Views&color=7A2FF7&style=flat" alt="views" />
 </p>
 
----
-
-<sub>_Last updated: 2025-09-XX — feel free to customize the header GIF and the percent skill badges to better match your comfort level._</sub>
